@@ -7,3 +7,5 @@ Created on Sun Dec 25 21:35:33 2022
 
 def multipl(x1,x2):
     return x1*x2
+def division(x1,x2):
+    return x1/x2
