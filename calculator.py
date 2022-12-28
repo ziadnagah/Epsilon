@@ -14,3 +14,4 @@ def mult(x1,x2):
  
  obj = 'green'
  obj2 = 'red'
+ obj3  = 'black'
